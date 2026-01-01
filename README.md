@@ -1,0 +1,2 @@
+# chunking_and_splitting_stratergies
+Understanding data preprocessing for LLMs
